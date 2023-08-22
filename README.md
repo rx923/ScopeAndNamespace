@@ -1,1 +1,3 @@
-# ScopeAndNamespace
+calculate n! iteratively & recursively
+
+
